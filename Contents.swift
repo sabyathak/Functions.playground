@@ -38,3 +38,4 @@ let newBalance2 = bankAccount2(currentBalance : 35.0, withdrawalAmount : 16.50, 
 print("Your new balance is : \(newBalance2) dollars")
 
 
+var str = "Testing for Git Hub"
